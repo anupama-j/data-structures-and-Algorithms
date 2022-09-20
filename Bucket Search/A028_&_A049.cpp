@@ -1,7 +1,7 @@
 	/*
 						       ******* Bucket Search *******
 		Sem 3 Data Structure MiniProject Narsee Monjee College of Commerce and Economics
-		Made By Veer Nagda A028 and Farhan Surani A050
+		Made By Veer Nagda A028 and Farhan Surani A049
 		Under guidance of Ma'am Anupama Jawale, B.Sc. I.T.
 																							*/
 
