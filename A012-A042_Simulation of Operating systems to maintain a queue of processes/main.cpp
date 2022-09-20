@@ -1,3 +1,8 @@
+//A012 A042
+//Rutu Ghevariya
+// Heet Shah
+
+
 #include<iostream>
 #include<algorithm>
 using namespace std;
